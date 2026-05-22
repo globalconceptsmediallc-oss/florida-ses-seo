@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://globalconceptsmediallc-oss.github.io/florida-ses-seo/sitemap.xml
