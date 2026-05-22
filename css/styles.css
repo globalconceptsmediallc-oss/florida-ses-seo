@@ -34,7 +34,7 @@ body {
 ========================= */
 
 .site-header {
-  background: #e0ba72;
+  background: #121212;
   padding: 20px 0;
   border-bottom: 4px solid #2563eb;
 }
@@ -46,7 +46,7 @@ body {
 }
 
 .logo a {
-  color: #121212;
+  color: #ffffff;
   text-decoration: none;
   font-size: 1.5rem;
   font-weight: bold;
@@ -59,7 +59,7 @@ body {
 }
 
 .main-nav a {
-  color: #121212;
+  color: #ffffff;
   text-decoration: none;
   font-weight: 600;
 }
@@ -74,7 +74,7 @@ body {
 
 .hero {
   padding: 100px 0;
-  background: linear-gradient(to bottom, #946c21, #0f172a);
+  background: linear-gradient(to bottom, #0f172a, #946c21);
   color: #ffffff;
 }
 
