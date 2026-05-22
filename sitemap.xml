@@ -1,1 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+>
+
+  <!-- HOMEPAGE -->
+  <url>
+    <loc>https://globalconceptsmediallc-oss.github.io/florida-ses-seo/</loc>
+  </url>
+
+  <!-- HUBS -->
+
+  <url>
+    <loc>https://globalconceptsmediallc-oss.github.io/florida-ses-seo/cities/</loc>
+  </url>
+
+  <url>
+    <loc>https://globalconceptsmediallc-oss.github.io/florida-ses-seo/services/</loc>
+  </url>
+
+  <url>
+    <loc>https://globalconceptsmediallc-oss.github.io/florida-ses-seo/clusters/</loc>
+  </url>
+
+  <url>
+    <loc>https://globalconceptsmediallc-oss.github.io/florida-ses-seo/safe-dealers/</loc>
+  </url>
+
+  <!-- CITY PAGES -->
+
+  <url>
+    <loc>
+      https://globalconceptsmediallc-oss.github.io/florida-ses-seo/cities/orlando-gun-safes.html
+    </loc>
+  </url>
+
+  <!-- SERVICE PAGES -->
+
+  <url>
+    <loc>
+      https://globalconceptsmediallc-oss.github.io/florida-ses-seo/services/safe-delivery.html
+    </loc>
+  </url>
+
+  <!-- CLUSTER PAGES -->
+
+  <url>
+    <loc>
+      https://globalconceptsmediallc-oss.github.io/florida-ses-seo/clusters/safe-buying-guide.html
+    </loc>
+  </url>
+
+  <!-- DEALER PAGES -->
+
+  <url>
+    <loc>
+      https://globalconceptsmediallc-oss.github.io/florida-ses-seo/safe-dealers/liberty-safe-dealer.html
+    </loc>
+  </url>
+
+</urlset>
